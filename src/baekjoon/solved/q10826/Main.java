@@ -1,4 +1,4 @@
-package baekjoon.q10826;
+package baekjoon.solved.q10826;
 
 import java.io.*;
 import java.util.ArrayList;

@@ -1,4 +1,4 @@
-package baekjoon.q9093;
+package baekjoon.solved.q9093;
 
 
 import java.io.*;

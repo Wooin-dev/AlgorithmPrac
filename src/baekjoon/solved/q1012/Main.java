@@ -1,4 +1,4 @@
-package baekjoon.q1012;
+package baekjoon.solved.q1012;
 
 import java.io.*;
 import java.util.StringTokenizer;

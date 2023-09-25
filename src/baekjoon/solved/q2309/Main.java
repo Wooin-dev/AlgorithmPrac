@@ -1,4 +1,4 @@
-package baekjoon.q2309;
+package baekjoon.solved.q2309;
 
 import java.io.*;
 import java.util.Arrays;
